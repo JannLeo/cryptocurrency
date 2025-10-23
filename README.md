@@ -62,7 +62,7 @@
 1. 克隆项目
 ```bash
 git clone <repository-url>
-cd ai_crypto_trading_system
+cd cryptocurrency
 ```
 
 2. 创建虚拟环境
